@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # python-simulation-game
 python simulation game
-=======
 # Earth Simulation Game
 
 A detailed 2D strategy simulation game featuring a realistic Earth model, resource management, and civilization development.
@@ -31,4 +29,3 @@ A detailed 2D strategy simulation game featuring a realistic Earth model, resour
 
 ## Development Status
 Currently in Phase 1 of development. See the project documentation for planned features and roadmap. 
->>>>>>> 5906463 (commit)
